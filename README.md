@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **aariow01@gmail.com**
 
-- ⚡ I’m looking for someone creative **people to team up for freelance projects**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aariow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arfar-x" height="30" width="40" /></a>
